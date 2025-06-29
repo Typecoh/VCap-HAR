@@ -1,1 +1,0 @@
-# VCap-HAR
